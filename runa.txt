@@ -1,6 +1,5 @@
 az login
-az account set --subscription 6a7b7531-d859-4f87-b595-92a63655ee2c
-az account set --subscription 6a7b7531-d859-4f87-b595-92a63655ee2c
+az account set --subscription <>
 az
 terraform plan -var-file="prod.tfvars"
 terraform apply -var-file="prod.tfvars"
