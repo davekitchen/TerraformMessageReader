@@ -1,7 +1,7 @@
-BaseName            = "Andor7"
+BaseName            = "Andor"
 Location            = "westeurope"
-TableName           = "MessageLog7"
-StorageAccountName  = "kumari7"
+TableName           = "MessageLog"
+StorageAccountName  = "kumari"
 
 GitInfo             = {
     Branch              = "master"
